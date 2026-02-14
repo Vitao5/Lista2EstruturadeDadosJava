@@ -52,3 +52,13 @@ O projeto inclui:
 ├── .gitignore
 └── README.md
 ```
+## 🛠️ Pré-requisitos
+
+Antes de compilar/rodar, você precisa ter:
+
+- **Java JDK 11+** instalado
+- Uma IDE ou editor de código (IntelliJ, Eclipse, VS Code)
+
+## 💻 Executar o exercício
+- java -cp src Exercicio01
+- java -cp src Exercicio02
