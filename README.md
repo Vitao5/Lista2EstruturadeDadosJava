@@ -60,5 +60,5 @@ Antes de compilar/rodar, você precisa ter:
 - Uma IDE ou editor de código (IntelliJ, Eclipse, VS Code)
 
 ## 💻 Executar o exercício
-- java -cp src Exercicio01
-- java -cp src Exercicio02
+- java -cp src Ex1
+- java -cp src Ex2
